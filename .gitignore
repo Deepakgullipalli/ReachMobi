@@ -1,0 +1,11 @@
+/ItunesSearchApp/.vs/ItunesSearchApp/v16/.suo
+/ItunesSearchApp/bin/Debug/netcoreapp3.1/cs/*.dll
+*.dll
+*.cache
+/ItunesSearchApp/bin/Debug/netcoreapp3.1/*.pdb
+*.CopyComplete
+netcoreapp3.1
+css
+js
+wwwroot
+obj
